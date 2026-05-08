@@ -520,6 +520,7 @@ bike_dock f47b
 bike_lane f47a
 bike_scooter ef45
 biotech ea3a
+bitbucket fff17
 blanket e828
 blender efe3
 blind f8d6
@@ -1710,6 +1711,7 @@ gif_2 f40e
 gif_box e7a3
 girl eb68
 gite e58b
+gitlab fff18
 glass_cup f6e3
 globe e64c
 globe_2_cancel fffb7
@@ -1965,6 +1967,7 @@ ink_eraser e6d0
 ink_eraser_off e7e3
 ink_highlighter e6d1
 ink_highlighter_move f524
+ink_highlighter_off fff14
 ink_marker e6d2
 ink_pen e6d3
 ink_selection ef52
@@ -3823,6 +3826,8 @@ tibia_alt f89c
 tile_large f3c3
 tile_medium f3c2
 tile_small f3c1
+tilt_arrow_down fff26
+tilt_arrow_up fff25
 time_auto f0e4
 time_to_leave eff7
 timelapse e422
@@ -4107,6 +4112,7 @@ watch e334
 watch_alert fffd1
 watch_arrow f2ca
 watch_arrow_down fffcf
+watch_button fff20
 watch_button_press f6aa
 watch_check f468
 watch_later efd6
@@ -4143,6 +4149,7 @@ wb_iridescent f07d
 wb_shade ea01
 wb_sunny e430
 wb_twilight e1c6
+wb_twilight_2 fff1f
 wc e63d
 weather_hail f67f
 weather_mix f60b
