@@ -22,6 +22,7 @@
 24fps_select f3f2
 24mp e962
 2d ef37
+2d_2 fff0e
 2k e963
 2k_plus e964
 2mp e965
@@ -29,6 +30,7 @@
 30fps_select efcf
 360 e577
 3d ed38
+3d_2 fff0f
 3d_rotation e84d
 3g_mobiledata efd0
 3g_mobiledata_badge f7f0
@@ -974,6 +976,8 @@ crib e588
 crisis_alert ebe9
 crop e3be
 crop_16_9 e3bc
+crop_21_9 fff0a
+crop_2_3 fff0b
 crop_3_2 e3bd
 crop_5_4 e3bf
 crop_7_5 e3c0
@@ -4025,6 +4029,8 @@ video_camera_front f080
 video_camera_front_off f83b
 video_chat f8a0
 video_file eb87
+video_frame_copy fff0d
+video_frame_save fff0c
 video_label e071
 video_library e04a
 video_search efc6
