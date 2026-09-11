@@ -1098,6 +1098,7 @@ developer_mode_tv e874
 device_band f2f5
 device_hub e335
 device_reset e8b3
+device_swoosh_star ffeb8
 device_thermostat e1ff
 device_unknown f2e1
 devices e326
@@ -2402,6 +2403,7 @@ mobile_sound f2e8
 mobile_sound_2 f318
 mobile_sound_off f7aa
 mobile_speaker f320
+mobile_tap ffeb2
 mobile_text f2eb
 mobile_text_2 f2e6
 mobile_theft f2a9
@@ -2788,6 +2790,8 @@ pentagon eb50
 people ea21
 people_alt ea21
 people_outline ea21
+people_size_decrease ffeb1
+people_size_increase ffeb0
 percent eb58
 percent_discount f244
 performance_max e51a
@@ -3495,10 +3499,12 @@ space_dashboard e66b
 space_dashboard_2 fff8c
 spatial_audio ebeb
 spatial_audio_off ebe8
+spatial_gallery ffeb6
 spatial_speaker f4cf
 spatial_tracking ebea
 speaker e32d
 speaker_2 fff71
+speaker_3 ffeb7
 speaker_group e32e
 speaker_notes e8cd
 speaker_notes_off e92a
@@ -3775,6 +3781,7 @@ tamper_detection_on f8c8
 tap_and_play f2cc
 tapas f1e9
 target e719
+target_check ffeb3
 task f075
 task_alt e2e6
 tatami_seat ef33
