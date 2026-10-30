@@ -937,7 +937,10 @@ contract f5a0
 contract_delete f5a2
 contract_edit f5a1
 contrast eb37
+contrast_auto ffe8e
 contrast_circle f49f
+contrast_inverse ffe8d
+contrast_inverse_auto ffe8c
 contrast_rtl_off ec72
 contrast_square f4a0
 control_camera e074
@@ -1999,6 +2002,7 @@ ink_selection ef52
 inpatient e0fe
 input e890
 input_circle f71a
+input_search ffe8a
 insert_chart f0cc
 insert_chart_filled f0cc
 insert_chart_outlined f0cc
@@ -2281,6 +2285,7 @@ mail_asterisk eef4
 mail_lock ec0a
 mail_off f48b
 mail_outline e159
+mail_person ffe8f
 mail_shield f249
 male e58e
 man e4eb
