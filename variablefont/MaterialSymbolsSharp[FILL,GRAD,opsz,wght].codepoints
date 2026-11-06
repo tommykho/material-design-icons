@@ -1108,6 +1108,7 @@ device_swoosh_star ffeb8
 device_thermostat e1ff
 device_unknown f2e1
 devices e326
+devices_2 ffe88
 devices_fold ebde
 devices_fold_2 f406
 devices_off f7a5
@@ -2372,6 +2373,7 @@ mindfulness f6e0
 minimize e931
 minor_crash ebf1
 mintmark efa9
+mirror_stack ffe87
 missed_video_call f0ce
 missed_video_call_filled f0ce
 missing_controller e701
@@ -3024,6 +3026,7 @@ public e80b
 public_off f1ca
 publish e255
 published_with_changes f232
+pull_request ffe85
 pulmonology e124
 pulse_alert f501
 punch_clock eaa8
