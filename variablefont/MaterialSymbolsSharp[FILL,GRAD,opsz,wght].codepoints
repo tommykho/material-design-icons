@@ -1190,6 +1190,7 @@ docs_apps_script f0c3
 document_scanner e5fa
 document_search f385
 document_share ffea6
+document_share_off ffe82
 document_share_stack ffe93
 domain e7ee
 domain_add eb62
@@ -1666,6 +1667,7 @@ frame_bug eeef
 frame_exclamation eeee
 frame_inspect f772
 frame_person f8a6
+frame_person_2 ffe83
 frame_person_mic f4d5
 frame_person_off f7d1
 frame_reload f771
@@ -3004,7 +3006,11 @@ print_add f7a2
 print_connect f7a1
 print_disabled e9cf
 print_error f7a0
+print_landscape_long ffe81
+print_landscape_short ffe80
 print_lock f651
+print_portrait_long ffe7f
+print_portrait_short ffe7e
 priority efb4
 priority_high e645
 privacy f148
@@ -3945,6 +3951,7 @@ total_dissolved_solids f877
 touch_app e913
 touch_double f38b
 touch_double_2 fff35
+touch_double_2_hold ffe84
 touch_long f38a
 touch_triple f389
 touchpad_mouse f687
